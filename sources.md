@@ -2,6 +2,8 @@ _California Native Plants for the Garden_, Carol Bornstein, David Fross, and Bar
 
 Calscape...
 
+_Designing California Native Gardens_, Glenn Keator and Alrie Middlebrook (2007).
+
 _The Drought-defying California Garden_, Greg Rubin and Lucy Warren (2016).
 
 _Gardener's Guide to California Wildflowers_, Kevin Connelly (1991).
