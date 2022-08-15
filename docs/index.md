@@ -26,7 +26,7 @@ Syntax highlighted code block
 ```
 
 [Eriogonum arborescens - Santa Cruz Island Buckwheat](eriogonum-arborescens.md)
-[Alnus rhombifolia - White Alder]("Alnus rhombifolia.md")
+[Alnus rhombifolia - White Alder](alnus-rhombifolia.md)
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
